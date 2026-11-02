@@ -8,14 +8,14 @@ Maintained by [visafreely.com](https://visafreely.com), where every route also h
 
 Most visa datasets are scraped once and go stale quietly. This one is being **re-verified destination by destination against primary official sources** — government gazettes, immigration authorities, foreign ministries — with the source named on every verified row.
 
-Current state (release of **2026-10-30**):
+Current state (release of **2026-11-02**):
 
 | | |
 |---|---|
 | Total routes | 39,402 |
-| Individually verified against an official source | **11,133** (28.3%) |
-| Corrections applied to the seed data so far | 4,385 |
-| Destinations fully verified | 25 of 199 |
+| Individually verified against an official source | **11,919** (30.2%) |
+| Corrections applied to the seed data so far | 4,770 |
+| Destinations fully verified | 26 of 199 |
 
 Unverified rows carry the seed value and are marked `verified = false`. They are a starting point, not a claim. The verification queue is worked in the open: progress, corrections and sources are published in the [data changelog](https://visafreely.com/changelog/), and regime-level changes are tracked on the [visa policy changes](https://visafreely.com/visa-policy-changes/) page.
 
