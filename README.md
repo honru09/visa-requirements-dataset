@@ -2,20 +2,20 @@
 
 A machine-readable matrix of visa requirements for ordinary passports: **199 passports × 199 destinations = 39,402 routes**, each with a requirement status and, where the official source states one, a maximum stay.
 
-Maintained by [visafreely.com](https://visafreely.com), where every route also has a human-readable page (e.g. [Japan passport → Cape Verde](https://visafreely.com/visa/japan/cape-verde/)).
+Maintained by [visafreely.com](https://visafreely.com), where every route also has a human-readable page (e.g. [Japan passport → Cape Verde](https://visafreely.com/visa/japan/cape-verde/)). Running a travel site or newsletter? The same checker is available as a [free embeddable widget](https://visafreely.com/widget/), and regime-level changes are tracked on the [visa policy changes](https://visafreely.com/visa-policy-changes/) page.
 
 ## What makes this dataset different
 
 Most visa datasets are scraped once and go stale quietly. This one is being **re-verified destination by destination against primary official sources** — government gazettes, immigration authorities, foreign ministries — with the source named on every verified row.
 
-Current state (release of **2026-11-05**):
+Current state (release of **2026-11-06**):
 
 | | |
 |---|---|
 | Total routes | 39,402 |
-| Individually verified against an official source | **14,715** (37.3%) |
+| Individually verified against an official source | **14,913** (37.8%) |
 | Corrections applied to the seed data so far | 4,773 |
-| Destinations fully verified | 41 of 199 |
+| Destinations fully verified | 42 of 199 |
 
 Unverified rows carry the seed value and are marked `verified = false`. They are a starting point, not a claim. The verification queue is worked in the open: progress, corrections and sources are published in the [data changelog](https://visafreely.com/changelog/), and regime-level changes are tracked on the [visa policy changes](https://visafreely.com/visa-policy-changes/) page.
 

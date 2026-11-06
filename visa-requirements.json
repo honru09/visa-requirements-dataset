@@ -1194,10 +1194,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AD",
@@ -3570,10 +3570,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AE",
@@ -5946,10 +5946,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AF",
@@ -8322,10 +8322,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AG",
@@ -10698,10 +10698,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AL",
@@ -13074,10 +13074,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AM",
@@ -15450,10 +15450,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AO",
@@ -17826,10 +17826,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AR",
@@ -20202,10 +20202,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AT",
@@ -22578,10 +22578,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AU",
@@ -24954,10 +24954,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "AZ",
@@ -27330,10 +27330,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BA",
@@ -29706,10 +29706,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BB",
@@ -32082,10 +32082,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BD",
@@ -34458,10 +34458,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BE",
@@ -36834,10 +36834,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BF",
@@ -39210,10 +39210,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BG",
@@ -41586,10 +41586,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BH",
@@ -43962,10 +43962,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BI",
@@ -46338,10 +46338,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BJ",
@@ -48714,10 +48714,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BN",
@@ -51090,10 +51090,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BO",
@@ -53466,10 +53466,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BR",
@@ -55842,10 +55842,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BS",
@@ -58218,10 +58218,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BT",
@@ -60594,10 +60594,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BW",
@@ -62970,10 +62970,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BY",
@@ -65346,10 +65346,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "BZ",
@@ -67722,10 +67722,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CA",
@@ -70098,10 +70098,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CD",
@@ -72474,10 +72474,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CF",
@@ -74850,10 +74850,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CG",
@@ -77226,10 +77226,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CH",
@@ -79602,10 +79602,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CI",
@@ -81978,10 +81978,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CL",
@@ -84354,10 +84354,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CM",
@@ -86730,10 +86730,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CN",
@@ -89106,10 +89106,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CO",
@@ -91482,10 +91482,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CR",
@@ -93858,10 +93858,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CU",
@@ -96234,10 +96234,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CV",
@@ -98610,10 +98610,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CY",
@@ -100986,10 +100986,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "CZ",
@@ -103362,10 +103362,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DE",
@@ -105738,10 +105738,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DJ",
@@ -108114,10 +108114,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DK",
@@ -110490,10 +110490,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DM",
@@ -112866,10 +112866,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DO",
@@ -115242,10 +115242,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "DZ",
@@ -117618,10 +117618,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "EC",
@@ -119994,10 +119994,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "EE",
@@ -122370,10 +122370,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "EG",
@@ -124746,10 +124746,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ER",
@@ -127122,10 +127122,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ES",
@@ -129498,10 +129498,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ET",
@@ -131874,10 +131874,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "FI",
@@ -134250,10 +134250,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "FJ",
@@ -136626,10 +136626,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "FM",
@@ -139002,10 +139002,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "FR",
@@ -141378,10 +141378,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GA",
@@ -143754,10 +143754,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GB",
@@ -146130,10 +146130,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GD",
@@ -148506,10 +148506,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GE",
@@ -150882,10 +150882,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GH",
@@ -153258,10 +153258,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GM",
@@ -155634,10 +155634,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GN",
@@ -158010,10 +158010,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GQ",
@@ -160386,10 +160386,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GR",
@@ -162762,10 +162762,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GT",
@@ -165138,10 +165138,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GW",
@@ -167514,10 +167514,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "GY",
@@ -169890,10 +169890,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "HK",
@@ -172266,10 +172266,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "HN",
@@ -174642,10 +174642,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "HR",
@@ -177018,10 +177018,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "HT",
@@ -179394,10 +179394,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "HU",
@@ -181770,10 +181770,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ID",
@@ -184146,10 +184146,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IE",
@@ -186522,10 +186522,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IL",
@@ -188898,10 +188898,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IN",
@@ -191274,10 +191274,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IQ",
@@ -193650,10 +193650,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IR",
@@ -196026,10 +196026,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IS",
@@ -198402,10 +198402,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "IT",
@@ -200778,10 +200778,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "JM",
@@ -203154,10 +203154,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "JO",
@@ -205530,10 +205530,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "JP",
@@ -207906,10 +207906,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KE",
@@ -210282,10 +210282,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KG",
@@ -212658,10 +212658,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KH",
@@ -215034,10 +215034,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KI",
@@ -217410,10 +217410,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KM",
@@ -219786,10 +219786,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KN",
@@ -222162,10 +222162,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KP",
@@ -224538,10 +224538,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KR",
@@ -226914,10 +226914,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KW",
@@ -229290,10 +229290,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "KZ",
@@ -231666,10 +231666,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LA",
@@ -234042,10 +234042,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LB",
@@ -236418,10 +236418,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LC",
@@ -241182,10 +241182,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LK",
@@ -243558,10 +243558,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LR",
@@ -245934,10 +245934,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LS",
@@ -248310,10 +248310,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LT",
@@ -250686,10 +250686,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LU",
@@ -253062,10 +253062,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LV",
@@ -255438,10 +255438,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "LY",
@@ -257814,10 +257814,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MA",
@@ -260190,10 +260190,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MC",
@@ -262566,10 +262566,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MD",
@@ -264942,10 +264942,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ME",
@@ -267318,10 +267318,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MG",
@@ -269694,10 +269694,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MH",
@@ -272070,10 +272070,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MK",
@@ -274446,10 +274446,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ML",
@@ -276822,10 +276822,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MM",
@@ -279198,10 +279198,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MN",
@@ -281574,10 +281574,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MO",
@@ -283950,10 +283950,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MR",
@@ -286326,10 +286326,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MT",
@@ -288702,10 +288702,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MU",
@@ -291078,10 +291078,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MV",
@@ -293454,10 +293454,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MW",
@@ -295830,10 +295830,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MX",
@@ -298206,10 +298206,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MY",
@@ -300582,10 +300582,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "MZ",
@@ -302958,10 +302958,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NA",
@@ -305334,10 +305334,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NE",
@@ -307710,10 +307710,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NG",
@@ -310086,10 +310086,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NI",
@@ -312462,10 +312462,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NL",
@@ -314838,10 +314838,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NO",
@@ -317214,10 +317214,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NP",
@@ -319590,10 +319590,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NR",
@@ -321966,10 +321966,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "NZ",
@@ -324342,10 +324342,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "OM",
@@ -326718,10 +326718,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PA",
@@ -329094,10 +329094,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PE",
@@ -331470,10 +331470,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PG",
@@ -333846,10 +333846,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PH",
@@ -336222,10 +336222,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PK",
@@ -338598,10 +338598,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PL",
@@ -340974,10 +340974,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PS",
@@ -343350,10 +343350,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PT",
@@ -345726,10 +345726,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PW",
@@ -348102,10 +348102,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "PY",
@@ -350478,10 +350478,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "QA",
@@ -352854,10 +352854,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "RO",
@@ -355230,10 +355230,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "RS",
@@ -357606,10 +357606,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "RU",
@@ -359982,10 +359982,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "RW",
@@ -362358,10 +362358,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SA",
@@ -364734,10 +364734,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SB",
@@ -367110,10 +367110,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SC",
@@ -369486,10 +369486,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SD",
@@ -371862,10 +371862,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SE",
@@ -374238,10 +374238,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SG",
@@ -376614,10 +376614,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SI",
@@ -378990,10 +378990,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SK",
@@ -381366,10 +381366,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SL",
@@ -383742,10 +383742,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SM",
@@ -386118,10 +386118,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SN",
@@ -388494,10 +388494,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SO",
@@ -390870,10 +390870,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SR",
@@ -393246,10 +393246,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SS",
@@ -395622,10 +395622,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ST",
@@ -397998,10 +397998,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SV",
@@ -400374,10 +400374,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SY",
@@ -402750,10 +402750,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "SZ",
@@ -405126,10 +405126,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TD",
@@ -407502,10 +407502,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TG",
@@ -409878,10 +409878,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TH",
@@ -412254,10 +412254,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TJ",
@@ -414630,10 +414630,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TL",
@@ -417006,10 +417006,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TM",
@@ -419382,10 +419382,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TN",
@@ -421758,10 +421758,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TO",
@@ -424134,10 +424134,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TR",
@@ -426510,10 +426510,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TT",
@@ -428886,10 +428886,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TV",
@@ -431262,10 +431262,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TW",
@@ -433638,10 +433638,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "TZ",
@@ -436014,10 +436014,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "UA",
@@ -438390,10 +438390,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "UG",
@@ -440766,10 +440766,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "US",
@@ -443142,10 +443142,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "UY",
@@ -445518,10 +445518,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "UZ",
@@ -447894,10 +447894,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "VA",
@@ -450270,10 +450270,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "VC",
@@ -452646,10 +452646,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "VE",
@@ -455022,10 +455022,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "VN",
@@ -457398,10 +457398,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "VU",
@@ -459774,10 +459774,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "WS",
@@ -462150,10 +462150,10 @@
 "destination": "Liechtenstein",
 "status": "visa free",
 "max_stay_days": 90,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "XK",
@@ -464526,10 +464526,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "YE",
@@ -466902,10 +466902,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ZA",
@@ -469278,10 +469278,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ZM",
@@ -471654,10 +471654,10 @@
 "destination": "Liechtenstein",
 "status": "visa required",
 "max_stay_days": null,
-"verified": false,
-"last_verified": null,
-"source_url": null,
-"source_name": null
+"verified": true,
+"last_verified": "2026-11-05",
+"source_url": "https://www.llv.li/de/landesverwaltung/auslaender-und-passamt/visum",
+"source_name": "Liechtenstein Migration and Passport Office (Ausländer- und Passamt) — Visum page (llv.li); EU exemption per Regulation (EU) 2018/1806 via the EEA/Schengen association"
 },
 {
 "passport_code": "ZW",
